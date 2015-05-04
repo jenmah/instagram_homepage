@@ -45,6 +45,7 @@ p {
   margin-top: -5%;
   margin-left: 43%;
   background-image: url(http://i.imgur.com/Rl0UknK.png);
+  background-repeat: no-repeat;
 }
 
 button {
