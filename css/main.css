@@ -17,6 +17,7 @@ header {
 p {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
+  width: 450px;
 }
 
 #iPhone-image {
@@ -35,10 +36,11 @@ p {
   margin-top: -12%;
   margin-left: 43%;
   width: 43%;
+  vertical-align: middle;
 }
 
 .whitebox {
-  width: 40%;
+  width: 504px;
   border-radius: 13px;
   display: inline-block;
   padding: 15px 15px;
